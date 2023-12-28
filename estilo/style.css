@@ -10,7 +10,7 @@
     --fonte3:'Sriracha', cursive;
 }
 
-;*{
+*{
     padding: 0px;
     margin: 0px;
 }
@@ -28,6 +28,7 @@ header{
 }
 
 header h1{
+    margin: 0px;
     padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--fonte2);
